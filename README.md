@@ -20,7 +20,7 @@ A beginner-friendly Python command-line app that fetches real-time weather for a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-cli.git
+git clone [https://github.com/Uchchhas4G3NT52/weather-cli.git]
 cd weather-cli
 ```
 
